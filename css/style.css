@@ -63,7 +63,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url("nazz.png") no-repeat;
+    background: url("cdd.png") no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -77,7 +77,7 @@ body {
 
 .home-content h1 {
     position:relative;
-    font-size: 56px;
+    font-size: 45px;
     font-weight: 700;
     line-height: 1.2;
 }
